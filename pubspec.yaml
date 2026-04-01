@@ -1,0 +1,11 @@
+name: meu_crud_dart
+description: API CRUD de filmes em Dart com SQLite e middleware
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  shelf: ^1.4.2
+  shelf_router: ^1.1.4
+  sqlite3: ^2.4.0
